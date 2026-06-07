@@ -4,7 +4,7 @@ System requirements:
 - No non-standard software is required
 
 Installation guide:
-- No specific installation
+- No specific installation needed. MATLAB used for all codes.
 - NA
 
 Demo/Instructions:
